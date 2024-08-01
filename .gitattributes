@@ -2,3 +2,6 @@
 
  Exit 
 
+.gitattributes text eol=lf
+* text=auto
+.gitattributes text eol=lf
